@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+asyncpg
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+websockets
